@@ -1,0 +1,9 @@
+Libro:hola
+Autor:holita
+Género:Suspenso
+Libro:holasa
+Autor:holitasa
+Género:Policial
+Libro:pepito
+Autor:pepe
+Género:Terror
